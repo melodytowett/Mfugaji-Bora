@@ -1,0 +1,27 @@
+.navbar{
+    background-color: rgb(4, 75, 4);
+    display: flex;
+}
+.navbar h3{
+    color: white;
+    margin: 30px;
+}
+nav>ul>a{
+    color: white;
+    text-decoration: none;
+    padding: 45px;
+    font-size: 24px;
+}
+.colunm-1{
+    background-image: url("images/beef.jpg");
+    color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+}
+.colunm-1 h2 {
+    padding: 80px;
+    font-size: larger;
+    font-weight: bold;
+}
