@@ -72,7 +72,31 @@ h5{
 h2{
     text-align: center;
 }
-.beef-1{
+.beef-1,.beef-2{
     display: flex;
     
+}
+#sahiwal,#boran,#sussex,#aberdeen,#aubrac,#trad{
+    border: 2px;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 3px 3px 9px;
+}
+footer{
+    background-color: rgb(201, 231, 243);
+}
+#colunm{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.line{
+    border: 1px solid rgb(129, 126, 126);
+    margin: 5px;
+}
+.copy{
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
 }
