@@ -123,6 +123,8 @@ padding: 50px;
 }
 .Bf{
   display: flex;  
+  padding: 30px;
+  margin: 20px;
 }
 #Bf-1{
     font-size: larger;
@@ -136,19 +138,47 @@ padding: 50px;
     color: white;
     font-weight: bold;
 }
-#Bf-2 img{
+#Bf-2 img, #market img, #mkrt img{
     border-radius: 50% 50%;
 }
 h2{
     color: tomato;
     font-style: italic;
 }
+.Dmarket{
+    display: flex ;
+    justify-content: space-around;
+}
+.col-1{
+    background-image: url("images/milkbd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+#kcc{
+    display: flex;
+    line-height: 30px;
+    justify-content: space-around;
+}
+h3{
+    text-align: center;
+}
+#brook, #bahati,#daima, #kingp{
+    display: flex;
+    justify-content: space-around;
+    line-height: 30px;
+}
+#team  h4{
+    text-align: center;
+}
+.people{
+    margin-left: 45%;
+}
 
-
-
-
-
-
+.ppl-1{
+    display: flex;
+    justify-content: space-around;
+}
 
 
 
