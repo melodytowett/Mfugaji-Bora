@@ -1,3 +1,4 @@
+
 .navbar{
     background-color: rgb(4, 75, 4);
     display: flex;
@@ -32,7 +33,7 @@ ul>a:hover{
     font-size: larger;
     font-weight: bold;
     background-color: black;
-    width: 200px;
+    width: 350px;
     margin: 0px 65% 0 35%;
     opacity: 0.6;
 
@@ -119,7 +120,7 @@ padding: 50px;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: white;
-    line-height: 30px;
+    line-height: 20px;
 }
 .Bf{
   display: flex;  
@@ -131,7 +132,7 @@ padding: 50px;
     padding: 20px;
     background-color: black;
     opacity: 0.5;
-    height: 500px;
+    height: 700px;
     border-radius: 30px;
 }
 #Bf-1 a{
